@@ -11,7 +11,24 @@
 
     <properties>
         <java.version>17</java.version>
-        <vaadin.version>24.4.10</vaadin.version>
+        <vaadin.version>24.5.0.alpha10</vaadin.version>
+
+        <maven.jar.version>3.3.0</maven.jar.version>
+        <maven.source.version>3.3.0</maven.source.version>
+        <maven.javadoc.version>3.6.3</maven.javadoc.version>
+        <maven.enforcer.version>3.4.1</maven.enforcer.version>
+        <maven.surefire.version>3.2.5</maven.surefire.version>
+        <maven.failsafe.version>3.2.5</maven.failsafe.version>
+        <maven.release.version>3.0.1</maven.release.version>
+        <maven.minimum.version>3.8.8</maven.minimum.version>
+        <maven.jacoco.version>0.8.11</maven.jacoco.version>
+        <maven.docker.version>0.44.0</maven.docker.version>
+        <maven.formatter.version>2.23.0</maven.formatter.version>
+        <maven.download.version>1.8.0</maven.download.version>
+        <maven.compiler.source>${java.version}</maven.compiler.source>
+        <maven.compiler.target>${java.version}</maven.compiler.target>
+
+        <docker.platforms>linux/amd64,linux/arm64</docker.platforms>
     </properties>
 
     <parent>
@@ -28,6 +45,10 @@
                 <enabled>false</enabled>
             </snapshots>
         </repository>
+        <repository>
+            <id>vaadin-prereleases</id>
+            <url>https://maven.vaadin.com/vaadin-prereleases</url>
+        </repository>
     </repositories>
 
     <dependencyManagement>
@@ -41,6 +62,13 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <pluginRepositories>
+        <pluginRepository>
+            <id>vaadin-prereleases</id>
+            <url>https://maven.vaadin.com/vaadin-prereleases</url>
+        </pluginRepository>
+    </pluginRepositories>
 
     <dependencies>
         <dependency>
@@ -117,6 +145,13 @@
         <profile>
             <!-- Production mode is activated using -Pproduction -->
             <id>production</id>
+            <properties>
+                <docker.tag>latest</docker.tag>
+                <docker.jvmArguments></docker.jvmArguments>
+                <maven.test.skip>true</maven.test.skip>
+                <maven.source.skip>true</maven.source.skip>
+                <maven.javadoc.skip>true</maven.javadoc.skip>
+            </properties>
             <dependencies>
                 <!-- Exclude development dependencies from production -->
                 <dependency>
@@ -144,6 +179,51 @@
                                 <phase>compile</phase>
                             </execution>
                         </executions>
+                    </plugin>
+                    <plugin>
+                        <groupId>org.springframework.boot</groupId>
+                        <artifactId>spring-boot-maven-plugin</artifactId>
+                        <executions>
+                            <execution>
+                                <goals>
+                                    <goal>repackage</goal>
+                                </goals>
+                            </execution>
+                        </executions>
+                    </plugin>
+                    <plugin>
+                        <groupId>io.fabric8</groupId>
+                        <artifactId>docker-maven-plugin</artifactId>
+                        <version>${maven.docker.version}</version>
+                        <configuration>
+                            <images>
+                                <image>
+                                    <name>vaadin/${project.artifactId}</name>
+                                    <build>
+                                        <from>eclipse-temurin:17-jre</from>
+                                        <buildx>
+                                            <platforms>
+                                                <platform>${docker.platforms}</platform>
+                                            </platforms>
+                                        </buildx>
+                                        <assembly>
+                                            <descriptorRef>artifact</descriptorRef>
+                                        </assembly>
+                                        <entryPoint>
+                                            <shell>java ${docker.jvmArguments} -jar maven/${project.name}-${project.version}.jar</shell>
+                                        </entryPoint>
+                                        <ports>
+                                            <port>8080</port>
+                                        </ports>
+                                        <tags>
+                                            <tag>${project.version}</tag>
+                                            <tag>${docker.tag}</tag>
+                                            <tag>ci</tag>
+                                        </tags>
+                                    </build>
+                                </image>
+                            </images>
+                        </configuration>
                     </plugin>
                 </plugins>
             </build>

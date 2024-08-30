@@ -1,0 +1,121 @@
+.badge {
+    font-size: 0.7em;
+    padding: 2px 0.5em;
+    margin-right: 0.2em;
+    border-radius: var(--lumo-border-radius-s);
+    text-align: center;
+    display: inline-block;
+}
+
+/* 20 distinct colors from https://sashamaps.net/docs/resources/20-colors/ */
+
+.red {
+    color: white;
+    background-color: #e6194b;
+}
+
+.green {
+    color: white;
+    background-color: #3cb44b;
+}
+
+.yellow {
+    color: black;
+    background-color: #ffe119;
+}
+
+.blue {
+    color: white;
+    background-color: #4363d8;
+}
+
+.orange {
+    color: white;
+    background-color: #f58231;
+}
+
+.purple {
+    color: white;
+    background-color: #911eb4;
+}
+
+.cyan {
+    color: white;
+    background-color: #42d4f4;
+}
+
+.magenta {
+    color: white;
+    background-color: #f032e6;
+}
+
+.lime {
+    color: black;
+    background-color: #bfef45;
+}
+
+.pink {
+    color: black;
+    background-color: #fabed4;
+}
+
+.teal {
+    color: white;
+    background-color: #469990;
+}
+
+.lavender {
+    color: black;
+    background-color: #dcbeff;
+}
+
+.brown {
+    color: white;
+    background-color: #9a6324;
+}
+
+.beige {
+    color: black;
+    background-color: #fffac8;
+}
+
+.maroon {
+    color: white;
+    background-color: #800000;
+}
+
+.mint {
+    color: black;
+    background-color: #aaffc3;
+}
+
+.olive {
+    color: white;
+    background-color: #808000;
+}
+
+.coral {
+    color: black;
+    background-color: #ffd8b1;
+}
+
+.navy {
+    color: white;
+    background-color: #000075;
+}
+
+.grey {
+    color: white;
+    background-color: #808080;
+}
+
+.white {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.black {
+    color: white;
+    background-color: black;
+}

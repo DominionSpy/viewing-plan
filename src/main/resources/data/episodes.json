@@ -1,0 +1,5955 @@
+[
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "1",
+    "title": "The Man Trap"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "2",
+    "title": "Charlie X"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "3",
+    "title": "Where No Man Has Gone Before"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "4",
+    "title": "The Naked Time"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "5",
+    "title": "The Enemy Within"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "6",
+    "title": "Mudd's Women"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "7",
+    "title": "What Are Little Girls Made Of?"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "8",
+    "title": "Miri"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "9",
+    "title": "Dagger of the Mind"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "10",
+    "title": "The Corbomite Maneuver",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "11",
+    "title": "The Menagerie, Part 1",
+    "tags": [
+      "Best",
+      "Spock"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "12",
+    "title": "The Menagerie, Part 2",
+    "tags": [
+      "Best",
+      "Spock"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "13",
+    "title": "The Conscience of the King"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "14",
+    "title": "Balance of Terror",
+    "tags": [
+      "Essential",
+      "Romulans"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "15",
+    "title": "Shore Leave"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "16",
+    "title": "The Galileo Seven"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "17",
+    "title": "The Squire of Gothos"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "18",
+    "title": "Arena",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "19",
+    "title": "Tomorrow is Yesterday"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "20",
+    "title": "Court Martial"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "21",
+    "title": "The Return of the Archons"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "22",
+    "title": "Space Seed",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "23",
+    "title": "A Taste of Armageddon"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "24",
+    "title": "This Side of Paradise",
+    "tags": [
+      "Best",
+      "Spock"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "25",
+    "title": "The Devil in the Dark"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "26",
+    "title": "Errand of Mercy",
+    "tags": [
+      "Essential",
+      "Klingons"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "27",
+    "title": "The Alternative Factor"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "28",
+    "title": "The City on the Edge of Forever",
+    "tags": [
+      "Best",
+      "Kirk"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 1",
+    "episode": "29",
+    "title": "Operation -- Annihilate!"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "1",
+    "title": "Amok Time",
+    "tags": [
+      "Essential",
+      "Spock"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "2",
+    "title": "Who Mourns for Adonais?"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "3",
+    "title": "The Changeling"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "4",
+    "title": "Mirror, Mirror",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "5",
+    "title": "The Apple"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "6",
+    "title": "The Doomsday Machine",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "7",
+    "title": "Catspaw"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "8",
+    "title": "I, Mudd",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "9",
+    "title": "Metamorphosis"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "10",
+    "title": "Journey to Babel",
+    "tags": [
+      "Essential",
+      "Spock"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "11",
+    "title": "Friday's Child",
+    "tags": [
+      "Klingons"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "12",
+    "title": "The Deadly Years"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "13",
+    "title": "Obsession"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "14",
+    "title": "Wolf in the Fold"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "15",
+    "title": "The Trouble with Tribbles",
+    "tags": [
+      "Essential",
+      "Klingons"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "16",
+    "title": "The Gamesters of Triskelion"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "17",
+    "title": "A Piece of the Action"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "18",
+    "title": "The Immunity Syndrome"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "19",
+    "title": "A Private Little War",
+    "tags": [
+      "Klingons"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "20",
+    "title": "Return to Tomorrow"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "21",
+    "title": "Patterns of Force"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "22",
+    "title": "By Any Other Name"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "23",
+    "title": "The Omega Glory"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "24",
+    "title": "The Ultimate Computer"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "25",
+    "title": "Bread and Circuses"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 2",
+    "episode": "26",
+    "title": "Assignment: Earth"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "1",
+    "title": "Spock's Brain"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "2",
+    "title": "The Enterprise Incident",
+    "tags": [
+      "Romulans"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "3",
+    "title": "The Paradise Syndrome"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "4",
+    "title": "And the Children Shall Lead"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "5",
+    "title": "Is There in Truth No Beauty?"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "6",
+    "title": "Spectre of the Gun"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "7",
+    "title": "Day of the Dove",
+    "tags": [
+      "Klingons"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "8",
+    "title": "For the World Is Hollow and I Have Touched the Sky"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "9",
+    "title": "The Tholian Web",
+    "tags": [
+      "Best",
+      "Kirk"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "10",
+    "title": "Plato's Stepchildren",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "11",
+    "title": "Wink of an Eye"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "12",
+    "title": "The Empath"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "13",
+    "title": "Elaan of Troyius",
+    "tags": [
+      "Klingons"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "14",
+    "title": "Whom Gods Destroy"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "15",
+    "title": "Let That Be Your Last Battlefield",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "16",
+    "title": "The Mark of Gideon"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "17",
+    "title": "That Which Survives"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "18",
+    "title": "The Lights of Zetar"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "19",
+    "title": "Requiem for Methuselah"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "20",
+    "title": "The Way to Eden"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "21",
+    "title": "The Cloud Minders"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "22",
+    "title": "The Savage Curtain",
+    "tags": [
+      "Romulans",
+      "Klingons"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "23",
+    "title": "All Our Yesterdays",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Season 3",
+    "episode": "24",
+    "title": "Turnabout Intruder"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Movies",
+    "episode": "1",
+    "title": "The Motion Picture"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Movies",
+    "episode": "2",
+    "title": "The Wrath of Khan",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Movies",
+    "episode": "3",
+    "title": "The Search For Spock",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Movies",
+    "episode": "4",
+    "title": "The Voyage Home",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Original Series",
+    "season": "Movies",
+    "episode": "5",
+    "title": "The Final Frontier"
+  },
+  {
+    "series": "The Original Series",
+    "season": "Movies",
+    "episode": "6",
+    "title": "The Undiscovered Country",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "1",
+    "title": "Encounter at Farpoint, Part 1",
+    "tags": [
+      "Essential",
+      "Q"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "2",
+    "title": "Encounter at Farpoint, Part 2",
+    "tags": [
+      "Essential",
+      "Q"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "3",
+    "title": "The Naked Now",
+    "tags": [
+      "Data",
+      "Yar"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "4",
+    "title": "Code of Honor"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "5",
+    "title": "The Last Outpost",
+    "tags": [
+      "Essential",
+      "Ferengi"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "6",
+    "title": "Where No One Has Gone Before",
+    "tags": [
+      "Essential",
+      "Wesley"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "7",
+    "title": "Lonely Among Us"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "8",
+    "title": "Justice",
+    "tags": [
+      "Wesley"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "9",
+    "title": "The Battle",
+    "tags": [
+      "Ferengi"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "10",
+    "title": "Hide and Q",
+    "tags": [
+      "Q"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "11",
+    "title": "Haven",
+    "tags": [
+      "Essential",
+      "Lwaxana"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "12",
+    "title": "The Big Goodbye"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "13",
+    "title": "Datalore",
+    "tags": [
+      "Essential",
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "14",
+    "title": "Angel One"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "15",
+    "title": "11001001",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "16",
+    "title": "Too Short a Season"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "17",
+    "title": "When the Bough Breaks"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "18",
+    "title": "Home Soil"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "19",
+    "title": "Coming of Age",
+    "tags": [
+      "Best",
+      "Wesley"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "20",
+    "title": "Heart of Glory",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "21",
+    "title": "The Arsenal of Freedom"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "22",
+    "title": "Symbiosis"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "23",
+    "title": "Skin of Evil",
+    "tags": [
+      "Yar"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "24",
+    "title": "We'll Always Have Paris",
+    "tags": [
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "25",
+    "title": "Conspiracy",
+    "tags": [
+      "Best",
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 1",
+    "episode": "26",
+    "title": "The Neutral Zone",
+    "tags": [
+      "Essential",
+      "Romulans"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "1",
+    "title": "The Child",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "2",
+    "title": "Where Silence Has Lease"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "3",
+    "title": "Elementary, Dear Data",
+    "tags": [
+      "Best",
+      "Data",
+      "La Forge"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "4",
+    "title": "The Outrageous Okona",
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "5",
+    "title": "Loud as a Whisper"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "6",
+    "title": "The Schizoid Man",
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "7",
+    "title": "Unnatural Selection"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "8",
+    "title": "A Matter of Honor",
+    "tags": [
+      "Essential",
+      "Riker"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "9",
+    "title": "The Measure of a Man",
+    "tags": [
+      "Essential",
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "10",
+    "title": "The Dauphin",
+    "tags": [
+      "Wesley"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "11",
+    "title": "Contagion"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "12",
+    "title": "The Royale"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "13",
+    "title": "Time Squared",
+    "tags": [
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "14",
+    "title": "The Icarus Factor",
+    "tags": [
+      "Riker",
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "15",
+    "title": "Pen Pals",
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "16",
+    "title": "Q Who",
+    "tags": [
+      "Essential",
+      "Q"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "17",
+    "title": "Samaritan Snare",
+    "tags": [
+      "Picard",
+      "La Forge"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "18",
+    "title": "Up the Long Ladder"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "19",
+    "title": "Manhunt",
+    "tags": [
+      "Best",
+      "Lwaxana"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "20",
+    "title": "The Emissary",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "21",
+    "title": "Peak Performance",
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 2",
+    "episode": "22",
+    "title": "Shades of Gray"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "1",
+    "title": "Evolution",
+    "tags": [
+      "Wesley"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "2",
+    "title": "The Ensigns of Command"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "3",
+    "title": "The Survivors"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "4",
+    "title": "Who Watches the Watchers"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "5",
+    "title": "The Bonding"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "6",
+    "title": "Booby Trap",
+    "tags": [
+      "La Forge"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "7",
+    "title": "The Enemy",
+    "tags": [
+      "Romulans",
+      "La Forge"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "8",
+    "title": "The Price",
+    "tags": [
+      "Ferengi",
+      "Troi"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "9",
+    "title": "The Vengeance Factor"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "10",
+    "title": "The Defector",
+    "tags": [
+      "Romulans"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "11",
+    "title": "The Hunted"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "12",
+    "title": "The High Ground",
+    "tags": [
+      "Crusher"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "13",
+    "title": "Deja Q",
+    "tags": [
+      "Best",
+      "Q"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "14",
+    "title": "A Matter of Perspective"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "15",
+    "title": "Yesterday's Enterprise",
+    "tags": [
+      "Essential",
+      "Yar"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "16",
+    "title": "The Offspring",
+    "tags": [
+      "Essential",
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "17",
+    "title": "Sins of the Father",
+    "tags": [
+      "Essential",
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "18",
+    "title": "Allegiance",
+    "tags": [
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "19",
+    "title": "Captain's Holiday",
+    "tags": [
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "20",
+    "title": "Tin Man",
+    "tags": [
+      "Romulans",
+      "Troi"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "21",
+    "title": "Hollow Pursuits",
+    "tags": [
+      "Essential",
+      "Barclay"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "22",
+    "title": "The Most Toys",
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "23",
+    "title": "Sarek",
+    "tags": [
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "24",
+    "title": "Menage a Troi",
+    "tags": [
+      "Ferengi",
+      "Lwaxana"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "25",
+    "title": "Transfigurations"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 3",
+    "episode": "26",
+    "title": "The Best of Both Worlds, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "1",
+    "title": "The Best of Both Worlds, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "2",
+    "title": "Family",
+    "tags": [
+      "Essential",
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "3",
+    "title": "Brothers",
+    "tags": [
+      "Essential",
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "4",
+    "title": "Suddenly Human",
+    "tags": [
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "5",
+    "title": "Remember Me",
+    "tags": [
+      "Crusher"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "6",
+    "title": "Legacy",
+    "tags": [
+      "Yar"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "7",
+    "title": "Reunion",
+    "tags": [
+      "Essential",
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "8",
+    "title": "Future Imperfect",
+    "tags": [
+      "Riker"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "9",
+    "title": "Final Mission",
+    "tags": [
+      "Picard",
+      "Wesley"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "10",
+    "title": "The Loss",
+    "tags": [
+      "Troi"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "11",
+    "title": "Data's Day",
+    "tags": [
+      "Romulans",
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "12",
+    "title": "The Wounded",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "13",
+    "title": "Devil's Due"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "14",
+    "title": "Clues",
+    "tags": [
+      "Best",
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "15",
+    "title": "First Contact",
+    "tags": [
+      "Essential",
+      "Riker"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "16",
+    "title": "Galaxy's Child",
+    "tags": [
+      "La Forge"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "17",
+    "title": "Night Terrors"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "18",
+    "title": "Identity Crisis"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "19",
+    "title": "The Nth Degree",
+    "tags": [
+      "Barclay"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "20",
+    "title": "Qpid",
+    "tags": [
+      "Q"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "21",
+    "title": "The Drumhead",
+    "tags": [
+      "Essential",
+      "Romulans"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "22",
+    "title": "Half a Life",
+    "tags": [
+      "Essential",
+      "Lwaxana"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "23",
+    "title": "The Host"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "24",
+    "title": "The Mind's Eye",
+    "tags": [
+      "Romulans",
+      "La Forge"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "25",
+    "title": "In Theory",
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 4",
+    "episode": "26",
+    "title": "Redemption, Part 1",
+    "tags": [
+      "Essential",
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "1",
+    "title": "Redemption, Part 2",
+    "tags": [
+      "Essential",
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "2",
+    "title": "Darmok",
+    "tags": [
+      "Essential",
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "3",
+    "title": "Ensign Ro",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "4",
+    "title": "Silicon Avatar"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "5",
+    "title": "Disaster",
+    "tags": [
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "6",
+    "title": "The Game",
+    "tags": [
+      "Best",
+      "Wesley"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "7",
+    "title": "Unification, Part 1",
+    "tags": [
+      "Essential",
+      "Romulans"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "8",
+    "title": "Unification, Part 2",
+    "tags": [
+      "Essential",
+      "Romulans"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "9",
+    "title": "A Matter of Time"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "10",
+    "title": "New Ground",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "11",
+    "title": "Hero Worship",
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "12",
+    "title": "Violations"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "13",
+    "title": "The Masterpiece Society"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "14",
+    "title": "Conundrum",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "15",
+    "title": "Power Play"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "16",
+    "title": "Ethics",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "17",
+    "title": "The Outcast",
+    "tags": [
+      "Essential",
+      "Riker"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "18",
+    "title": "Cause and Effect",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "19",
+    "title": "The First Duty",
+    "tags": [
+      "Wesley"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "20",
+    "title": "Cost of Living",
+    "tags": [
+      "Lwaxana"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "21",
+    "title": "The Perfect Mate"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "22",
+    "title": "Imaginary Friend"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "23",
+    "title": "I, Borg",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "24",
+    "title": "The Next Phase",
+    "tags": [
+      "La Forge"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "25",
+    "title": "The Inner Light",
+    "tags": [
+      "Essential",
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 5",
+    "episode": "26",
+    "title": "Time's Arrow, Part 1",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "1",
+    "title": "Time's Arrow, Part 2",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "2",
+    "title": "Realm of Fear",
+    "tags": [
+      "Barclay"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "3",
+    "title": "Man of the People"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "4",
+    "title": "Relics",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "5",
+    "title": "Schisms"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "6",
+    "title": "True Q",
+    "tags": [
+      "Q"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "7",
+    "title": "Rascals"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "8",
+    "title": "A Fistful of Datas",
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "9",
+    "title": "The Quality of Life",
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "10",
+    "title": "Chain of Command, Part 1",
+    "tags": [
+      "Essential",
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "11",
+    "title": "Chain of Command, Part 2",
+    "tags": [
+      "Essential",
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "12",
+    "title": "Ship in a Bottle",
+    "tags": [
+      "Barclay"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "13",
+    "title": "Aquiel"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "14",
+    "title": "Face of the Enemy",
+    "tags": [
+      "Romulans",
+      "Troi"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "15",
+    "title": "Tapestry",
+    "tags": [
+      "Essential",
+      "Picard",
+      "Q"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "16",
+    "title": "Birthright, Part 1",
+    "tags": [
+      "Romulans",
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "17",
+    "title": "Birthright, Part 2",
+    "tags": [
+      "Romulans",
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "18",
+    "title": "Starship Mine",
+    "tags": [
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "19",
+    "title": "Lessons"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "20",
+    "title": "The Chase",
+    "tags": [
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "21",
+    "title": "Frame of Mind"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "22",
+    "title": "Suspicions",
+    "tags": [
+      "Ferengi",
+      "Crusher"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "23",
+    "title": "Rightful Heir",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "24",
+    "title": "Second Chances",
+    "tags": [
+      "Riker"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "25",
+    "title": "Timescape",
+    "tags": [
+      "Best",
+      "Romulans"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 6",
+    "episode": "26",
+    "title": "Descent, Part 1",
+    "tags": [
+      "Essential",
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "1",
+    "title": "Descent, Part 2",
+    "tags": [
+      "Essential",
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "2",
+    "title": "Liaisons"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "3",
+    "title": "Interface",
+    "tags": [
+      "La Forge"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "4",
+    "title": "Gambit, Part 1",
+    "tags": [
+      "Best",
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "5",
+    "title": "Gambit, Part 2",
+    "tags": [
+      "Best",
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "6",
+    "title": "Phantasms",
+    "tags": [
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "7",
+    "title": "Dark Page"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "8",
+    "title": "Attached",
+    "tags": [
+      "Essential",
+      "Picard",
+      "Crusher"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "9",
+    "title": "Force of Nature"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "10",
+    "title": "Inheritance"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "11",
+    "title": "Parallels",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "12",
+    "title": "The Pegasus",
+    "tags": [
+      "Essential",
+      "Riker"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "13",
+    "title": "Homeward"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "14",
+    "title": "Sub Rosa"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "15",
+    "title": "Lower Decks",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "16",
+    "title": "Thine Own Self"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "17",
+    "title": "Masks",
+    "tags": [
+      "Picard",
+      "Data"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "18",
+    "title": "Eye of the Beholder",
+    "tags": [
+      "Troi"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "19",
+    "title": "Genesis"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "20",
+    "title": "Journey's End",
+    "tags": [
+      "Essential",
+      "Wesley"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "21",
+    "title": "Firstborn",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "22",
+    "title": "Bloodlines",
+    "tags": [
+      "Ferengi",
+      "Picard"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "23",
+    "title": "Emergence"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "24",
+    "title": "Preemptive Strike",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "25",
+    "title": "All Good Things, Part 1",
+    "tags": [
+      "Essential",
+      "Q"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Season 7",
+    "episode": "26",
+    "title": "All Good Things, Part 2",
+    "tags": [
+      "Essential",
+      "Q"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Movies",
+    "episode": "1",
+    "title": "Generations",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Movies",
+    "episode": "2",
+    "title": "First Contact",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Movies",
+    "episode": "3",
+    "title": "Insurrection"
+  },
+  {
+    "series": "The Next Generation",
+    "season": "Movies",
+    "episode": "4",
+    "title": "Nemesis"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "1",
+    "title": "Emissary, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "2",
+    "title": "Emissary, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "3",
+    "title": "Past Prologue",
+    "tags": [
+      "Essential",
+      "Kira",
+      "Garak"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "4",
+    "title": "A Man Alone",
+    "tags": [
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "5",
+    "title": "Babel"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "6",
+    "title": "Captive Pursuit",
+    "tags": [
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "7",
+    "title": "Q-Less",
+    "tags": [
+      "Q"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "8",
+    "title": "Dax",
+    "tags": [
+      "Best",
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "9",
+    "title": "The Passenger"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "10",
+    "title": "Move Along Home"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "11",
+    "title": "The Nagus",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "12",
+    "title": "Vortex",
+    "tags": [
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "13",
+    "title": "Battle Lines",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "14",
+    "title": "The Storyteller",
+    "tags": [
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "15",
+    "title": "Progress",
+    "tags": [
+      "Kira"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "16",
+    "title": "If Wishes Were Horses"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "17",
+    "title": "The Forsaken",
+    "tags": [
+      "Lwaxana"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "18",
+    "title": "Dramatis Personae"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "19",
+    "title": "Duet",
+    "tags": [
+      "Essential",
+      "Kira"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 1",
+    "episode": "20",
+    "title": "In the Hands of the Prophets",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "1",
+    "title": "The Homecoming",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "2",
+    "title": "The Circle",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "3",
+    "title": "The Siege",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "4",
+    "title": "Invasive Procedures"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "5",
+    "title": "Cardassians",
+    "tags": [
+      "Garak"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "6",
+    "title": "Melora",
+    "tags": [
+      "Bashir"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "7",
+    "title": "Rules of Acquisition",
+    "tags": [
+      "Essential",
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "8",
+    "title": "Necessary Evil",
+    "tags": [
+      "Essential",
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "9",
+    "title": "Second Sight"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "10",
+    "title": "Sanctuary"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "11",
+    "title": "Rivals",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "12",
+    "title": "The Alternate",
+    "tags": [
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "13",
+    "title": "Armageddon Game"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "14",
+    "title": "Whispers",
+    "tags": [
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "15",
+    "title": "Paradise"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "16",
+    "title": "Shadowplay"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "17",
+    "title": "Playing God",
+    "tags": [
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "18",
+    "title": "Profit and Loss",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "19",
+    "title": "Blood Oath",
+    "tags": [
+      "Essential",
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "20",
+    "title": "The Maquis, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "21",
+    "title": "The Maquis, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "22",
+    "title": "The Wire",
+    "tags": [
+      "Essential",
+      "Garak"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "23",
+    "title": "Crossover",
+    "tags": [
+      "Essential",
+      "Mirror"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "24",
+    "title": "The Collaborator",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "25",
+    "title": "Tribunal",
+    "tags": [
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 2",
+    "episode": "26",
+    "title": "The Jem'Hadar",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "1",
+    "title": "The Search, Part 1",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "2",
+    "title": "The Search, Part 2",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "3",
+    "title": "The House of Quark",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "4",
+    "title": "Equilibrium",
+    "tags": [
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "5",
+    "title": "Second Skin",
+    "tags": [
+      "Kira"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "6",
+    "title": "The Abandoned",
+    "tags": [
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "7",
+    "title": "Civil Defense",
+    "tags": [
+      "Dukat"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "8",
+    "title": "Meridian"
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "9",
+    "title": "Defiant",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "10",
+    "title": "Fascination",
+    "tags": [
+      "Lwaxana"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "11",
+    "title": "Past Tense, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "12",
+    "title": "Past Tense, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "13",
+    "title": "Life Support",
+    "tags": [
+      "Kira",
+      "Bashir"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "14",
+    "title": "Heart of Stone",
+    "tags": [
+      "Essential",
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "15",
+    "title": "Destiny",
+    "tags": [
+      "Sisko"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "16",
+    "title": "Prophet Motive",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "17",
+    "title": "Visionary",
+    "tags": [
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "18",
+    "title": "Distant Voices",
+    "tags": [
+      "Bashir"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "19",
+    "title": "Through the Looking Glass",
+    "tags": [
+      "Mirror"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "20",
+    "title": "Improbable Cause",
+    "tags": [
+      "Essential",
+      "Dominion",
+      "Garak"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "21",
+    "title": "The Die is Cast",
+    "tags": [
+      "Essential",
+      "Dominion",
+      "Garak"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "22",
+    "title": "Explorers",
+    "tags": [
+      "Sisko",
+      "Jake"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "23",
+    "title": "Family Business",
+    "tags": [
+      "Best",
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "24",
+    "title": "Shakaar",
+    "tags": [
+      "Kira"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "25",
+    "title": "Facets",
+    "tags": [
+      "Essential",
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 3",
+    "episode": "26",
+    "title": "The Adversary",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "1",
+    "title": "The Way of the Warrior, Part 1",
+    "tags": [
+      "Essential",
+      "Worf"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "2",
+    "title": "The Way of the Warrior, Part 2",
+    "tags": [
+      "Essential",
+      "Worf"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "3",
+    "title": "The Visitor",
+    "tags": [
+      "Essential",
+      "Jake"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "4",
+    "title": "Hippocratic Oath",
+    "tags": [
+      "Bashir",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "5",
+    "title": "Indiscretion",
+    "tags": [
+      "Essential",
+      "Kira",
+      "Dukat"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "6",
+    "title": "Rejoined",
+    "tags": [
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "7",
+    "title": "Starship Down",
+    "tags": [
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "8",
+    "title": "Little Green Men",
+    "tags": [
+      "Best",
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "9",
+    "title": "The Sword of Kahless",
+    "tags": [
+      "Worf",
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "10",
+    "title": "Our Man Bashir",
+    "tags": [
+      "Bashir"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "11",
+    "title": "Homefront",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "12",
+    "title": "Paradise Lost",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "13",
+    "title": "Crossfire",
+    "tags": [
+      "Odo",
+      "Kira"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "14",
+    "title": "Return to Grace",
+    "tags": [
+      "Essential",
+      "Kira",
+      "Dukat"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "15",
+    "title": "Sons of Mogh",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "16",
+    "title": "Bar Association",
+    "tags": [
+      "Best",
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "17",
+    "title": "Accession",
+    "tags": [
+      "Essential",
+      "Sisko"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "18",
+    "title": "Rules of Engagement",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "19",
+    "title": "Hard Time",
+    "tags": [
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "20",
+    "title": "Shattered Mirror",
+    "tags": [
+      "Mirror"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "21",
+    "title": "The Muse",
+    "tags": [
+      "Lwaxana"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "22",
+    "title": "For the Cause",
+    "tags": [
+      "Essential",
+      "Sisko",
+      "Garak"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "23",
+    "title": "To the Death",
+    "tags": [
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "24",
+    "title": "The Quickening",
+    "tags": [
+      "Dominion",
+      "Bashir"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "25",
+    "title": "Body Parts",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 4",
+    "episode": "26",
+    "title": "Broken Link",
+    "tags": [
+      "Essential",
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "1",
+    "title": "Apocalypse Rising",
+    "tags": [
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "2",
+    "title": "The Ship",
+    "tags": [
+      "Dominion",
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "3",
+    "title": "Looking for par'Mach in All the Wrong Places",
+    "tags": [
+      "Best",
+      "Worf",
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "4",
+    "title": "Nor the Battle to the Strong",
+    "tags": [
+      "Bashir",
+      "Jake"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "5",
+    "title": "The Assignment",
+    "tags": [
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "6",
+    "title": "Trials and Tribble-ations",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "7",
+    "title": "Let He Who Is Without Sin...",
+    "tags": [
+      "Worf",
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "8",
+    "title": "Things Past",
+    "tags": [
+      "Best",
+      "Odo",
+      "Garak"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "9",
+    "title": "The Ascent",
+    "tags": [
+      "Odo",
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "10",
+    "title": "Rapture",
+    "tags": [
+      "Essential",
+      "Sisko"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "11",
+    "title": "The Darkness and the Light",
+    "tags": [
+      "Kira"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "12",
+    "title": "The Begotten",
+    "tags": [
+      "Essential",
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "13",
+    "title": "For the Uniform",
+    "tags": [
+      "Essential",
+      "Sisko"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "14",
+    "title": "In Purgatory's Shadow",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "15",
+    "title": "By Inferno's Light",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "16",
+    "title": "Doctor Bashir, I Presume?",
+    "tags": [
+      "Essential",
+      "Bashir"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "17",
+    "title": "A Simple Investigation",
+    "tags": [
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "18",
+    "title": "Business as Usual",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "19",
+    "title": "Ties of Blood and Water",
+    "tags": [
+      "Kira"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "20",
+    "title": "Ferengi Love Songs",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "21",
+    "title": "Soldiers of the Empire",
+    "tags": [
+      "Essential",
+      "Worf"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "22",
+    "title": "Children of Time",
+    "tags": [
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "23",
+    "title": "Blaze of Glory",
+    "tags": [
+      "Sisko"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "24",
+    "title": "Empok Nor",
+    "tags": [
+      "Garak"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "25",
+    "title": "In the Cards",
+    "tags": [
+      "Essential",
+      "Jake",
+      "Nog"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 5",
+    "episode": "26",
+    "title": "Call to Arms",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "1",
+    "title": "A Time to Stand",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "2",
+    "title": "Rocks and Shoals",
+    "tags": [
+      "Sisko",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "3",
+    "title": "Sons and Daughters",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "4",
+    "title": "Behind the Lines",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "5",
+    "title": "Favor the Bold",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "6",
+    "title": "Sacrifice of Angels",
+    "tags": [
+      "Essential",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "7",
+    "title": "You Are Cordially Invited...",
+    "tags": [
+      "Best",
+      "Worf"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "8",
+    "title": "Resurrection",
+    "tags": [
+      "Mirror"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "9",
+    "title": "Statistical Probabilities",
+    "tags": [
+      "Bashir"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "10",
+    "title": "The Magnificent Ferengi",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "11",
+    "title": "Waltz",
+    "tags": [
+      "Essential",
+      "Sisko",
+      "Dukat"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "12",
+    "title": "Who Mourns for Morn?",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "13",
+    "title": "Far Beyond the Stars",
+    "tags": [
+      "Essential",
+      "Sisko"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "14",
+    "title": "One Little Ship",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "15",
+    "title": "Honor Among Thieves",
+    "tags": [
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "16",
+    "title": "Change of Heart",
+    "tags": [
+      "Worf",
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "17",
+    "title": "Wrongs Darker Than Death or Night",
+    "tags": [
+      "Kira",
+      "Dukat"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "18",
+    "title": "Inquisition",
+    "tags": [
+      "Essential",
+      "Bashir"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "19",
+    "title": "In the Pale Moonlight",
+    "tags": [
+      "Essential",
+      "Sisko",
+      "Garak"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "20",
+    "title": "His Way",
+    "tags": [
+      "Bashir",
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "21",
+    "title": "The Reckoning",
+    "tags": [
+      "Sisko"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "22",
+    "title": "Valiant",
+    "tags": [
+      "Jake",
+      "Nog"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "23",
+    "title": "Profit and Lace",
+    "tags": [
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "24",
+    "title": "Time's Orphan",
+    "tags": [
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "25",
+    "title": "The Sound of Her Voice",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 6",
+    "episode": "26",
+    "title": "Tears of the Prophets",
+    "tags": [
+      "Essential",
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "1",
+    "title": "Image in the Sand",
+    "tags": [
+      "Essential",
+      "Sisko"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "2",
+    "title": "Shadows and Symbols",
+    "tags": [
+      "Essential",
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "3",
+    "title": "Afterimage",
+    "tags": [
+      "Best",
+      "Dax",
+      "Worf",
+      "Garak"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "4",
+    "title": "Take Me Out to the Holosuite",
+    "tags": [
+      "Sisko"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "5",
+    "title": "Chrysalis",
+    "tags": [
+      "Bashir"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "6",
+    "title": "Treachery, Faith, and the Great River",
+    "tags": [
+      "Best",
+      "Dominion",
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "7",
+    "title": "Once More Unto the Breach",
+    "tags": [
+      "Worf"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "8",
+    "title": "The Siege of AR-558",
+    "tags": [
+      "Sisko",
+      "Dominion"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "9",
+    "title": "Covenant",
+    "tags": [
+      "Essential",
+      "Kira",
+      "Dukat"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "10",
+    "title": "It's Only a Paper Moon",
+    "tags": [
+      "Nog"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "11",
+    "title": "Prodigal Daughter",
+    "tags": [
+      "Dax",
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "12",
+    "title": "The Emperor's New Cloak",
+    "tags": [
+      "Mirror",
+      "Quark"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "13",
+    "title": "Field of Fire",
+    "tags": [
+      "Dax"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "14",
+    "title": "Chimera",
+    "tags": [
+      "Odo"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "15",
+    "title": "Badda-Bing, Badda-Bang",
+    "tags": [
+      "Vic"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "16",
+    "title": "Inter Arma Enim Silent Leges",
+    "tags": [
+      "Essential",
+      "Bashir"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "17",
+    "title": "Penumbra",
+    "tags": [
+      "Essential",
+      "Dax",
+      "Worf"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "18",
+    "title": "Til Death Do Us Part",
+    "tags": [
+      "Essential",
+      "Dax",
+      "Worf",
+      "Dukat"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "19",
+    "title": "Strange Bedfellows",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "20",
+    "title": "The Changing Face of Evil",
+    "tags": [
+      "Essential",
+      "Dukat"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "21",
+    "title": "When It Rains...",
+    "tags": [
+      "Essential",
+      "Kira"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "22",
+    "title": "Tacking Into the Wind",
+    "tags": [
+      "Essential",
+      "Kira",
+      "Worf"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "23",
+    "title": "Extreme Measures",
+    "tags": [
+      "Essential",
+      "Bashir",
+      "O'Brien"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "24",
+    "title": "The Dogs of War",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "25",
+    "title": "What You Leave Behind, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Deep Space Nine",
+    "season": "Season 7",
+    "episode": "26",
+    "title": "What You Leave Behind, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "1",
+    "title": "Caretaker, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "2",
+    "title": "Caretaker, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "3",
+    "title": "Parallax",
+    "tags": [
+      "Essential",
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "4",
+    "title": "Time and Again"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "5",
+    "title": "Phage",
+    "tags": [
+      "Essential",
+      "Neelix"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "6",
+    "title": "The Cloud"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "7",
+    "title": "Eye of the Needle",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "8",
+    "title": "Ex Post Facto",
+    "tags": [
+      "Paris"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "9",
+    "title": "Emanations"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "10",
+    "title": "Prime Factors",
+    "tags": [
+      "Janeway"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "11",
+    "title": "State of Flux",
+    "tags": [
+      "Essential",
+      "Kazon"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "12",
+    "title": "Heroes and Demons",
+    "tags": [
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "13",
+    "title": "Cathexis"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "14",
+    "title": "Faces",
+    "tags": [
+      "Essential",
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "15",
+    "title": "Jetrel",
+    "tags": [
+      "Neelix"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 1",
+    "episode": "16",
+    "title": "Learning Curve",
+    "tags": [
+      "Tuvok"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "1",
+    "title": "The 37's",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "2",
+    "title": "Initiations",
+    "tags": [
+      "Kazon"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "3",
+    "title": "Projections",
+    "tags": [
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "4",
+    "title": "Elogium",
+    "tags": [
+      "Kes"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "5",
+    "title": "Non Sequitur",
+    "tags": [
+      "Kim"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "6",
+    "title": "Twisted"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "7",
+    "title": "Parturition",
+    "tags": [
+      "Neelix",
+      "Paris"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "8",
+    "title": "Persistence of Vision"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "9",
+    "title": "Tattoo",
+    "tags": [
+      "Chakotay"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "10",
+    "title": "Cold Fire",
+    "tags": [
+      "Kes"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "11",
+    "title": "Maneuvers",
+    "tags": [
+      "Essential",
+      "Kazon"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "12",
+    "title": "Resistance",
+    "tags": [
+      "Tuvok",
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "13",
+    "title": "Prototype"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "14",
+    "title": "Alliances",
+    "tags": [
+      "Janeway",
+      "Kazon"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "15",
+    "title": "Threshold",
+    "tags": [
+      "Paris"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "16",
+    "title": "Meld",
+    "tags": [
+      "Essential",
+      "Tuvok"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "17",
+    "title": "Dreadnought",
+    "tags": [
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "18",
+    "title": "Death Wish",
+    "tags": [
+      "Essential",
+      "Q"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "19",
+    "title": "Lifesigns",
+    "tags": [
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "20",
+    "title": "Investigations",
+    "tags": [
+      "Neelix",
+      "Kazon"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "21",
+    "title": "Deadlock",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "22",
+    "title": "Innocence",
+    "tags": [
+      "Tuvok"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "23",
+    "title": "The Thaw"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "24",
+    "title": "Tuvix",
+    "tags": [
+      "Essential",
+      "Tuvok",
+      "Neelix"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "25",
+    "title": "Resolutions",
+    "tags": [
+      "Janeway",
+      "Chakotay"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 2",
+    "episode": "26",
+    "title": "Basics, Part 1",
+    "tags": [
+      "Essential",
+      "Kazon"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "1",
+    "title": "Basics, Part 2",
+    "tags": [
+      "Essential",
+      "Kazon"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "2",
+    "title": "Flashback",
+    "tags": [
+      "Tuvok"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "3",
+    "title": "The Chute",
+    "tags": [
+      "Paris",
+      "Kim"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "4",
+    "title": "The Swarm",
+    "tags": [
+      "Essential",
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "5",
+    "title": "False Profits",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "6",
+    "title": "Remember",
+    "tags": [
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "7",
+    "title": "Sacred Ground"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "8",
+    "title": "Future's End, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "9",
+    "title": "Future's End, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "10",
+    "title": "Warlord"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "11",
+    "title": "The Q and the Grey",
+    "tags": [
+      "Q"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "12",
+    "title": "Macrocosm",
+    "tags": [
+      "Best",
+      "Janeway"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "13",
+    "title": "Fair Trade",
+    "tags": [
+      "Essential",
+      "Neelix"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "14",
+    "title": "Alter Ego",
+    "tags": [
+      "Tuvok"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "15",
+    "title": "Coda",
+    "tags": [
+      "Janeway"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "16",
+    "title": "Blood Fever",
+    "tags": [
+      "Essential",
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "17",
+    "title": "Unity",
+    "tags": [
+      "Essential",
+      "Chakotay"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "18",
+    "title": "Darkling",
+    "tags": [
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "19",
+    "title": "Rise",
+    "tags": [
+      "Tuvok",
+      "Neelix"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "20",
+    "title": "Favorite Son",
+    "tags": [
+      "Kim"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "21",
+    "title": "Before and After",
+    "tags": [
+      "Kes"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "22",
+    "title": "Real Life",
+    "tags": [
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "23",
+    "title": "Distant Origin",
+    "tags": [
+      "Chakotay"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "24",
+    "title": "Displaced"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "25",
+    "title": "Worst Case Scenario",
+    "tags": [
+      "Best",
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 3",
+    "episode": "26",
+    "title": "Scorpion, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "1",
+    "title": "Scorpion, Part 2",
+    "tags": [
+      "Essential",
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "2",
+    "title": "The Gift",
+    "tags": [
+      "Kes"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "3",
+    "title": "Day of Honor",
+    "tags": [
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "4",
+    "title": "Nemesis",
+    "tags": [
+      "Chakotay"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "5",
+    "title": "Revulsion",
+    "tags": [
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "6",
+    "title": "The Raven",
+    "tags": [
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "7",
+    "title": "Scientific Method"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "8",
+    "title": "Year of Hell, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "9",
+    "title": "Year of Hell, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "10",
+    "title": "Random Thoughts"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "11",
+    "title": "Concerning Flight",
+    "tags": [
+      "Janeway"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "12",
+    "title": "Mortal Coil",
+    "tags": [
+      "Neelix"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "13",
+    "title": "Waking Moments",
+    "tags": [
+      "Chakotay"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "14",
+    "title": "Message in a Bottle",
+    "tags": [
+      "Best",
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "15",
+    "title": "Hunters",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "16",
+    "title": "Prey",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "17",
+    "title": "Retrospect",
+    "tags": [
+      "Doctor",
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "18",
+    "title": "The Killing Game, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "19",
+    "title": "The Killing Game, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "20",
+    "title": "Vis à Vis",
+    "tags": [
+      "Paris"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "21",
+    "title": "The Omega Directive",
+    "tags": [
+      "Best",
+      "Janeway",
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "22",
+    "title": "Unforgettable"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "23",
+    "title": "Living Witness",
+    "tags": [
+      "Essential",
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "24",
+    "title": "Demon",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "25",
+    "title": "One",
+    "tags": [
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 4",
+    "episode": "26",
+    "title": "Hope and Fear",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "1",
+    "title": "Night",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "2",
+    "title": "Drone",
+    "tags": [
+      "Doctor",
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "3",
+    "title": "Extreme Risk",
+    "tags": [
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "4",
+    "title": "In the Flesh",
+    "tags": [
+      "Species 8472"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "5",
+    "title": "Once Upon a Time",
+    "tags": [
+      "Neelix"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "6",
+    "title": "Timeless",
+    "tags": [
+      "Chakotay",
+      "Kim"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "7",
+    "title": "Infinite Regress",
+    "tags": [
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "8",
+    "title": "Nothing Human"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "9",
+    "title": "Thirty Days",
+    "tags": [
+      "Essential",
+      "Paris"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "10",
+    "title": "Counterpoint"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "11",
+    "title": "Latent Image",
+    "tags": [
+      "Essential",
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "12",
+    "title": "Bride of Chaotica!",
+    "tags": [
+      "Holodeck"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "13",
+    "title": "Gravity"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "14",
+    "title": "Bliss"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "15",
+    "title": "Dark Frontier, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "16",
+    "title": "Dark Frontier, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "17",
+    "title": "The Disease"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "18",
+    "title": "Course: Oblivion",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "19",
+    "title": "The Fight"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "20",
+    "title": "Think Tank"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "21",
+    "title": "Juggernaut"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "22",
+    "title": "Someone to Watch Over Me",
+    "tags": [
+      "Seven",
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "23",
+    "title": "11:59"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "24",
+    "title": "Relativity",
+    "tags": [
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "25",
+    "title": "Warhead"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 5",
+    "episode": "26",
+    "title": "Equinox, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "1",
+    "title": "Equinox, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "2",
+    "title": "Survival Instinct",
+    "tags": [
+      "Best",
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "3",
+    "title": "Barge of the Dead",
+    "tags": [
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "4",
+    "title": "Tinker, Tenor, Doctor, Spy",
+    "tags": [
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "5",
+    "title": "Alice",
+    "tags": [
+      "Paris"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "6",
+    "title": "Riddles",
+    "tags": [
+      "Tuvok"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "7",
+    "title": "Dragon's Teeth"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "8",
+    "title": "One Small Step"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "9",
+    "title": "The Voyager Conspiracy",
+    "tags": [
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "10",
+    "title": "Pathfinder",
+    "tags": [
+      "Essential",
+      "Barclay"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "11",
+    "title": "Fair Haven",
+    "tags": [
+      "Holodeck"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "12",
+    "title": "Blink of an Eye"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "13",
+    "title": "Virtuoso"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "14",
+    "title": "Memorial"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "15",
+    "title": "Tsunkatse",
+    "tags": [
+      "Seven",
+      "Tuvok"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "16",
+    "title": "Collective",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "17",
+    "title": "Spirit Folk",
+    "tags": [
+      "Holodeck"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "18",
+    "title": "Ashes to Ashes"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "19",
+    "title": "Child's Play",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "20",
+    "title": "Good Shepherd",
+    "tags": [
+      "Janeway"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "21",
+    "title": "Live Fast and Prosper",
+    "tags": [
+      "Janeway",
+      "Tuvok"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "22",
+    "title": "Muse",
+    "tags": [
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "23",
+    "title": "Fury",
+    "tags": [
+      "Kes"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "24",
+    "title": "Life Line",
+    "tags": [
+      "Doctor",
+      "Barclay"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "25",
+    "title": "The Haunting of Deck Twelve"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 6",
+    "episode": "26",
+    "title": "Unimatrix Zero, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "1",
+    "title": "Unimatrix Zero, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "2",
+    "title": "Imperfection",
+    "tags": [
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "3",
+    "title": "Drive",
+    "tags": [
+      "Paris",
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "4",
+    "title": "Repression",
+    "tags": [
+      "Janeway",
+      "Tuvok"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "5",
+    "title": "Critical Care",
+    "tags": [
+      "Essential",
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "6",
+    "title": "Inside Man",
+    "tags": [
+      "Barclay"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "7",
+    "title": "Body and Soul",
+    "tags": [
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "8",
+    "title": "Nightingale",
+    "tags": [
+      "Kim"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "9",
+    "title": "Flesh and Blood, Part 1",
+    "tags": [
+      "Holodeck"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "10",
+    "title": "Flesh and Blood, Part 2",
+    "tags": [
+      "Holodeck"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "11",
+    "title": "Shattered",
+    "tags": [
+      "Chakotay"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "12",
+    "title": "Lineage",
+    "tags": [
+      "Essential",
+      "B'Elanna"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "13",
+    "title": "Repentance"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "14",
+    "title": "Prophecy"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "15",
+    "title": "The Void"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "16",
+    "title": "Workforce, Part 1"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "17",
+    "title": "Workforce, Part 2"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "18",
+    "title": "Human Error",
+    "tags": [
+      "Essential",
+      "Seven"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "19",
+    "title": "Q2",
+    "tags": [
+      "Q"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "20",
+    "title": "Author, Author",
+    "tags": [
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "21",
+    "title": "Friendship One"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "22",
+    "title": "Natural Law"
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "23",
+    "title": "Homestead",
+    "tags": [
+      "Essential",
+      "Neelix"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "24",
+    "title": "Renaissance Man",
+    "tags": [
+      "Doctor"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "25",
+    "title": "Endgame, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Voyager",
+    "season": "Season 7",
+    "episode": "26",
+    "title": "Endgame, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "1",
+    "title": "Broken Bow, Part 1",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "2",
+    "title": "Broken Bow, Part 2",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "3",
+    "title": "Fight or Flight"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "4",
+    "title": "Strange New World"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "5",
+    "title": "Unexpected"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "6",
+    "title": "Terra Nova"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "7",
+    "title": "The Andorian Incident",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "8",
+    "title": "Breaking the Ice"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "9",
+    "title": "Civilization"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "10",
+    "title": "Fortunate Son"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "11",
+    "title": "Cold Front"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "12",
+    "title": "Silent Enemy"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "13",
+    "title": "Dear Doctor",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "14",
+    "title": "Sleeping Dogs"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "15",
+    "title": "Shadows of P'Jem",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "16",
+    "title": "Shuttlepod One",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "17",
+    "title": "Fusion",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "18",
+    "title": "Rogue Planet"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "19",
+    "title": "Acquisition"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "20",
+    "title": "Oasis"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "21",
+    "title": "Detained"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "22",
+    "title": "Vox Sola"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "23",
+    "title": "Fallen Hero"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "24",
+    "title": "Desert Crossing"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "25",
+    "title": "Two Days and Two Nights"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 1",
+    "episode": "26",
+    "title": "Shockwave, Part 1"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "1",
+    "title": "Shockwave, Part 2"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "2",
+    "title": "Carbon Creek",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "3",
+    "title": "Minefield"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "4",
+    "title": "Dead Stop"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "5",
+    "title": "A Night in Sickbay"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "6",
+    "title": "Marauders"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "7",
+    "title": "The Seventh"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "8",
+    "title": "The Communicator"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "9",
+    "title": "Singularity"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "10",
+    "title": "Vanishing Point"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "11",
+    "title": "Precious Cargo"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "12",
+    "title": "The Catwalk"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "13",
+    "title": "Dawn"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "14",
+    "title": "Stigma"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "15",
+    "title": "Cease Fire",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "16",
+    "title": "Future Tense"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "17",
+    "title": "Canamar"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "18",
+    "title": "The Crossing"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "19",
+    "title": "Judgment",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "20",
+    "title": "Horizon"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "21",
+    "title": "The Breach"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "22",
+    "title": "Cogenitor"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "23",
+    "title": "Regeneration",
+    "tags": [
+      "Best"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "24",
+    "title": "First Flight"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "25",
+    "title": "Bounty"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 2",
+    "episode": "26",
+    "title": "The Expanse",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "1",
+    "title": "The Xindi"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "2",
+    "title": "Anomaly"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "3",
+    "title": "Extinction"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "4",
+    "title": "Rajiin"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "5",
+    "title": "Impulse"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "6",
+    "title": "Exile"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "7",
+    "title": "The Shipment"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "8",
+    "title": "Twilight"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "9",
+    "title": "North Star"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "10",
+    "title": "Similitude"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "11",
+    "title": "Carpenter Street"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "12",
+    "title": "Chosen Realm"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "13",
+    "title": "Proving Ground"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "14",
+    "title": "Stratagem"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "15",
+    "title": "Harbinger"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "16",
+    "title": "Doctor's Orders"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "17",
+    "title": "Hatchery"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "18",
+    "title": "Azati Prime"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "19",
+    "title": "Damage"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "20",
+    "title": "The Forgotten"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "21",
+    "title": "E²"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "22",
+    "title": "The Council"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "23",
+    "title": "Countdown"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 3",
+    "episode": "24",
+    "title": "Zero Hour"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "1",
+    "title": "Storm Front, Part 1"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "2",
+    "title": "Storm Front, Part 2"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "3",
+    "title": "Home",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "4",
+    "title": "Borderland",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "5",
+    "title": "Cold Station 12",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "6",
+    "title": "The Augments",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "7",
+    "title": "The Forge",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "8",
+    "title": "Awakening",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "9",
+    "title": "Kir'Shara",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "10",
+    "title": "Daedalus"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "11",
+    "title": "Observer Effect"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "12",
+    "title": "Babel One",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "13",
+    "title": "United",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "14",
+    "title": "The Aenar",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "15",
+    "title": "Affliction",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "16",
+    "title": "Divergence",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "17",
+    "title": "Bound"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "18",
+    "title": "In a Mirror, Darkly, Part 1"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "19",
+    "title": "In a Mirror, Darkly, Part 2"
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "20",
+    "title": "Demons",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "21",
+    "title": "Terra Prime",
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "series": "Enterprise",
+    "season": "Season 4",
+    "episode": "22",
+    "title": "These Are the Voyages...",
+    "tags": [
+      "Essential"
+    ]
+  }
+]
