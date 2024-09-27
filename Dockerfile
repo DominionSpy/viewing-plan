@@ -1,5 +1,5 @@
 # Build
-FROM eclipse-temurin:17-jre-alpine AS BUILD
+FROM eclipse-temurin:17-jdk-alpine AS BUILD
 COPY . /app/
 WORKDIR /app/
 ARG offlinekey
