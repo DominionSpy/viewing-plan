@@ -1,6 +1,7 @@
 # Build
 FROM eclipse-temurin:17-jdk-alpine AS build
-COPY --chmod=777 . /app/
+COPY . /app/
+RUN chmod a+x /app/mvnw
 WORKDIR /app/
 ARG offlinekey
 ENV VAADIN_OFFLINE_KEY=$offlinekey
