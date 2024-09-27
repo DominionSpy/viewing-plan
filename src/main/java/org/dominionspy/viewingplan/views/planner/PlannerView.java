@@ -28,14 +28,12 @@ import com.vaadin.flow.data.renderer.ComponentRenderer;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.PreserveOnRefresh;
 import com.vaadin.flow.router.Route;
-import com.vaadin.flow.router.RouteAlias;
 
 import static org.dominionspy.viewingplan.domain.Episode.TAG_BEST;
 import static org.dominionspy.viewingplan.domain.Episode.TAG_ESSENTIAL;
 
 @PageTitle("Planner")
 @Route(value = "")
-@RouteAlias(value = "")
 @PreserveOnRefresh
 @PermitAll
 public class PlannerView extends VerticalLayout {
