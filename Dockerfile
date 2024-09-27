@@ -13,4 +13,4 @@ FROM eclipse-temurin:17-jre-alpine
 COPY --from=build /app/target/viewing-plan-1.0-SNAPSHOT.jar /app/
 WORKDIR /app/
 EXPOSE 8080
-ENTRYPOINT java -jar viewing-plan-1.0-SNAPSHOT.jar 8080
+ENTRYPOINT java -Xmx350m -jar viewing-plan-1.0-SNAPSHOT.jar 8080
