@@ -11,7 +11,7 @@
 
     <properties>
         <java.version>17</java.version>
-        <vaadin.version>24.5.0.alpha10</vaadin.version>
+        <vaadin.version>24.5.0.beta2</vaadin.version>
 
         <maven.jar.version>3.3.0</maven.jar.version>
         <maven.source.version>3.3.0</maven.source.version>
@@ -34,7 +34,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.2.8</version>
+        <version>3.3.3</version>
     </parent>
 
     <repositories>
@@ -79,6 +79,11 @@
         <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-spring-boot-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.vaadin</groupId>
+            <artifactId>control-center-starter</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.parttio</groupId>
@@ -198,7 +203,7 @@
                         <configuration>
                             <images>
                                 <image>
-                                    <name>vaadin/${project.artifactId}</name>
+                                    <name>dominionspy/${project.artifactId}</name>
                                     <build>
                                         <from>eclipse-temurin:17-jre</from>
                                         <buildx>

@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+import jakarta.annotation.security.PermitAll;
 import org.dominionspy.viewingplan.domain.Episode;
 import org.dominionspy.viewingplan.domain.EpisodeService;
 import org.dominionspy.viewingplan.domain.Settings;
@@ -36,6 +37,7 @@ import static org.dominionspy.viewingplan.domain.Episode.TAG_ESSENTIAL;
 @Route(value = "")
 @RouteAlias(value = "")
 @PreserveOnRefresh
+@PermitAll
 public class PlannerView extends VerticalLayout {
 
     private static final String GENERAL_ALL = "All";
