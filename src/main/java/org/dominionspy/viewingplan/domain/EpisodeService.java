@@ -1,82 +1,88 @@
 package org.dominionspy.viewingplan.domain;
 
-import java.io.InputStream;
-import java.util.Arrays;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-import org.springframework.core.io.ClassPathResource;
+import jakarta.transaction.Transactional;
+import org.springframework.stereotype.Service;
 
+@Service
+@Transactional
 public class EpisodeService {
 
-    public static Episode[] getItems() {
-        ObjectMapper mapper = new ObjectMapper();
-        try {
-            InputStream stream = new ClassPathResource("data/episodes.json")
-                    .getInputStream();
-            return mapper.readValue(stream, Episode[].class);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        return new Episode[0];
+    private final EpisodeRepo episodeRepo;
+    private final SeriesRepo seriesRepo;
+    private final TagRepo tagRepo;
+
+    public EpisodeService(EpisodeRepo episodeRepo, SeriesRepo seriesRepo,
+            TagRepo tagRepo) {
+        this.episodeRepo = episodeRepo;
+        this.seriesRepo = seriesRepo;
+        this.tagRepo = tagRepo;
     }
 
-    public static List<String> getSeries() {
-        List<Episode> episodes = Arrays.asList(getItems());
-        return episodes.stream()
-                .map(Episode::series)
-                .distinct()
+    public List<Episode> getAllEpisodes() {
+        return episodeRepo.findAll();
+    }
+
+    public Episode getEpisodeById(Long id) {
+        return episodeRepo.findById(id).orElse(null);
+    }
+
+    public List<String> getSeries() {
+        return seriesRepo.findAll().stream()
+                .map(Series::getName)
                 .toList();
     }
 
-    public static List<String> getTags() {
-        List<Episode> episodes = Arrays.asList(getItems());
-        return episodes.stream()
-                .map(Episode::tags)
-                .filter(Objects::nonNull)
-                .flatMap(List::stream)
-                .distinct()
+    public List<String> getTags() {
+        return tagRepo.findAll().stream()
+                .map(Tag::getName)
                 .sorted()
                 .toList();
     }
 
-    public static List<String> getTagsBySeries(String series) {
-        List<Episode> episodes = Arrays.asList(getItems());
-        return episodes.stream()
-                .filter(episode -> episode.series().equals(series))
-                .map(Episode::tags)
+    public List<String> getTagsBySeries(String series) {
+        return seriesRepo.findByName(series).getSeasons().stream()
+                .map(Season::getEpisodes)
+                .flatMap(List::stream)
+                .map(Episode::getTags)
                 .filter(Objects::nonNull)
                 .flatMap(List::stream)
+                .map(Tag::getName)
                 .distinct()
-                .filter(tag -> !Objects.equals(tag, Episode.TAG_ESSENTIAL) && !Objects.equals(tag, Episode.TAG_BEST))
+                .filter(tag -> !Objects.equals(tag, Episode.TAG_ESSENTIAL))
+                .filter(tag -> !Objects.equals(tag, Episode.TAG_BEST))
                 .sorted()
                 .toList();
     }
 
-    public static List<String> getSeasonsBySeries(String series) {
-        List<Episode> episodes = Arrays.asList(getItems());
-        return episodes.stream()
-                .filter(episode -> episode.series().equals(series))
-                .map(Episode::season)
-                .distinct()
+    public List<String> getSeasonsBySeries(String series) {
+        return seriesRepo.findByName(series).getSeasons().stream()
+            .map(Season::getName)
+            .toList();
+    }
+
+    public List<Episode> getEpisodesBySeason(String series, String season) {
+        return seriesRepo.findByName(series).getSeasons().stream()
+                .filter(s -> s.getName().equals(season))
+                .map(Season::getEpisodes)
+                .flatMap(List::stream)
+                .sorted(Comparator.comparing(Episode::getNumber))
                 .toList();
     }
 
-    public static List<Episode> getEpisodesBySeason(String series, String season) {
-        List<Episode> episodes = Arrays.asList(getItems());
-        return episodes.stream()
-                .filter(episode -> episode.series().equals(series) && episode.season().equals(season))
-                .toList();
-    }
-
-    public static List<Episode> getEpisodesBySeasonAndTags(String series, String season, Set<String> tags) {
-        List<Episode> episodes = Arrays.asList(getItems());
-        return episodes.stream()
-                .filter(episode -> episode.series().equals(series) && episode.season().equals(season) &&
-                        episode.tags() != null && !Collections.disjoint(episode.tags(), tags))
+    public List<Episode> getEpisodesBySeasonAndTags(String series, String season, Set<String> tags) {
+        return seriesRepo.findByName(series).getSeasons().stream()
+                .filter(s -> s.getName().equals(season))
+                .map(Season::getEpisodes)
+                .flatMap(List::stream)
+                .filter(e -> e.getTags() != null)
+                .filter(e -> !Collections.disjoint(e.getTags().stream().map(Tag::getName).toList(), tags))
+                .sorted(Comparator.comparing(Episode::getNumber))
                 .toList();
     }
 }

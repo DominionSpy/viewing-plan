@@ -3,64 +3,47 @@ package org.dominionspy.viewingplan.domain;
 import java.util.List;
 import java.util.Objects;
 
-import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
-import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
-import jakarta.persistence.JoinTable;
-import jakarta.persistence.ManyToMany;
 import jakarta.persistence.ManyToOne;
+import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 import org.hibernate.proxy.HibernateProxy;
 
 @Entity
-@Table(name = "episode")
-public class Episode {
-
-    public static final String TAG_ESSENTIAL = "Essential";
-    public static final String TAG_BEST = "Best";
+@Table(name = "season")
+public class Season {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
-    private Integer number;
-
-    private String title;
+    private String name;
 
     @ManyToOne
-    @JoinColumn(name = "season_id", referencedColumnName = "id")
-    private Season season;
+    @JoinColumn(name = "series_id", referencedColumnName = "id")
+    private Series series;
 
-    @ManyToMany(cascade = { CascadeType.PERSIST, CascadeType.MERGE }, fetch = FetchType.EAGER)
-    @JoinTable(
-            name = "episode_tag",
-            joinColumns = @JoinColumn(name = "episode_id") ,
-            inverseJoinColumns = @JoinColumn(name = "tag_id")
-    )
-    private List<Tag> tags;
+    @OneToMany(mappedBy = "season")
+    private List<Episode> episodes;
 
     public Long getId() {
         return id;
     }
 
-    public Integer getNumber() {
-        return number;
+    public String getName() {
+        return name;
     }
 
-    public String getTitle() {
-        return title;
+    public Series getSeries() {
+        return series;
     }
 
-    public Season getSeason() {
-        return season;
-    }
-
-    public List<Tag> getTags() {
-        return tags;
+    public List<Episode> getEpisodes() {
+        return episodes;
     }
 
     @Override
@@ -70,8 +53,8 @@ public class Episode {
         Class<?> oEffectiveClass = o instanceof HibernateProxy ? ((HibernateProxy) o).getHibernateLazyInitializer().getPersistentClass() : o.getClass();
         Class<?> thisEffectiveClass = this instanceof HibernateProxy ? ((HibernateProxy) this).getHibernateLazyInitializer().getPersistentClass() : this.getClass();
         if (thisEffectiveClass != oEffectiveClass) return false;
-        Episode episode = (Episode) o;
-        return getId() != null && Objects.equals(getId(), episode.getId());
+        Season season = (Season) o;
+        return getId() != null && Objects.equals(getId(), season.getId());
     }
 
     @Override

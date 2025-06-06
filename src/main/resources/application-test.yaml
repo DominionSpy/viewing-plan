@@ -1,0 +1,32 @@
+server:
+  port: ${PORT:8080}
+
+logging:
+  level:
+    org.atmosphere: warn
+
+vaadin:
+  launch-browser: true
+  allowed-packages: com.vaadin,org.vaadin,org.dominionspy.viewingplan
+
+spring:
+  jpa:
+    defer-datasource-initialization: true
+  jackson:
+    property-naming-strategy: SNAKE_CASE
+  flyway:
+    locations: classpath:/db/migration
+    schemas: episodes
+    baseline-on-migrate: true
+    enabled: true
+  datasource:
+    url: jdbc:postgresql://control-center-rw.control-center:5432/app
+    username: admin@admin.com
+    password: root
+    driver-class-name: org.postgresql.Driver
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: vaadin

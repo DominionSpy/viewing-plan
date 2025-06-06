@@ -5,11 +5,11 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import jakarta.annotation.security.PermitAll;
 import org.dominionspy.viewingplan.domain.Episode;
 import org.dominionspy.viewingplan.domain.EpisodeService;
 import org.dominionspy.viewingplan.domain.Settings;
 import org.dominionspy.viewingplan.domain.SettingsService;
+import org.dominionspy.viewingplan.domain.Tag;
 
 import com.vaadin.flow.component.Unit;
 import com.vaadin.flow.component.checkbox.CheckboxGroup;
@@ -28,6 +28,7 @@ import com.vaadin.flow.data.renderer.ComponentRenderer;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.PreserveOnRefresh;
 import com.vaadin.flow.router.Route;
+import com.vaadin.flow.server.auth.AnonymousAllowed;
 
 import static org.dominionspy.viewingplan.domain.Episode.TAG_BEST;
 import static org.dominionspy.viewingplan.domain.Episode.TAG_ESSENTIAL;
@@ -35,7 +36,7 @@ import static org.dominionspy.viewingplan.domain.Episode.TAG_ESSENTIAL;
 @PageTitle("Planner")
 @Route(value = "")
 @PreserveOnRefresh
-@PermitAll
+@AnonymousAllowed
 public class PlannerView extends VerticalLayout {
 
     private static final String GENERAL_ALL = "All";
@@ -50,26 +51,16 @@ public class PlannerView extends VerticalLayout {
             "mint", "olive", "coral", "navy", "grey"
     };
 
-    private static String getTagColor(String tag) {
-        if (tag.equals(TAG_ESSENTIAL)) {
-            return "white";
-        }
-        if (tag.equals(TAG_BEST)) {
-            return "black";
-        }
-        int index = EpisodeService.getTags().stream()
-                .filter(t -> !t.equals(TAG_ESSENTIAL) && !t.equals(TAG_BEST))
-                .toList()
-                .indexOf(tag) % TAG_COLORS.length;
-        return TAG_COLORS[index];
-    }
+    private final transient EpisodeService episodeService;
 
-    public PlannerView() {
+    public PlannerView(EpisodeService episodeService) {
+        this.episodeService = episodeService;
+
         List<Settings> settings = SettingsService.getSettings();
 
         CheckboxGroup<String> seriesGroup = new CheckboxGroup<>();
         seriesGroup.setLabel("Series");
-        List<String> series = EpisodeService.getSeries();
+        List<String> series = episodeService.getSeries();
         seriesGroup.setItems(series);
         seriesGroup.setValue(settings.stream()
                 .map(Settings::series)
@@ -98,36 +89,38 @@ public class PlannerView extends VerticalLayout {
         generalGroup.setValue(settings != null ? settings.general() : GENERAL_ESSENTIAL);
         seriesLayout.add(generalGroup);
 
-        List<String> seriesTags = EpisodeService.getTagsBySeries(series);
+        List<String> seriesTags = episodeService.getTagsBySeries(series);
         MultiSelectComboBox<String> tagSelect = new MultiSelectComboBox<>();
         tagSelect.setVisible(!seriesTags.isEmpty() && !generalGroup.getValue().equals(GENERAL_ALL));
         tagSelect.setLabel("Tags");
         tagSelect.setAutoExpand(MultiSelectComboBox.AutoExpandMode.BOTH);
-        tagSelect.setClassNameGenerator(PlannerView::getTagColor);
+        tagSelect.setClassNameGenerator(this::getTagColor);
         tagSelect.setItems(seriesTags);
         tagSelect.setValue(settings != null ? settings.tags() : Set.of());
         seriesLayout.add(tagSelect);
 
         HorizontalLayout seasonsLayout = new HorizontalLayout();
         seasonsLayout.setWidthFull();
-        EpisodeService.getSeasonsBySeries(series).forEach(season -> {
+        episodeService.getSeasonsBySeries(series).forEach(season -> {
             Grid<Episode> seasonGrid = new Grid<>(Episode.class, false);
+            seasonGrid.setEmptyStateText("No episodes");
             seasonGrid.addThemeVariants(GridVariant.LUMO_COMPACT);
             seasonGrid.setAllRowsVisible(true);
-            seasonGrid.addColumn(Episode::episode).setHeader("#").setWidth("2.2rem").setFlexGrow(0);
-            seasonGrid.addColumn(new ComponentRenderer<>(episode -> {
+            seasonGrid.addColumn(Episode::getNumber).setHeader("#").setWidth("2.2rem").setFlexGrow(0);
+            seasonGrid.addColumn(new ComponentRenderer<>(episode1 -> {
                         Div content = new Div();
-                        content.add(new Span(episode.title()));
+                        content.add(new Span(episode1.getTitle()));
 
-                        List<String> tags = episode.tags();
+                        List<Tag> tags = episode1.getTags();
                         if (tags != null) {
                             HorizontalLayout layout = new HorizontalLayout();
                             layout.setSpacing(false);
                             tags.forEach(tag -> {
-                                Span tagSpan = new Span(tag);
-                                tagSpan.setVisible(tag.equals(TAG_ESSENTIAL) ||
-                                        tag.equals(TAG_BEST) || tagSelect.getSelectedItems().contains(tag));
-                                tagSpan.addClassNames("badge", getTagColor(tag));
+                                String tagName = tag.getName();
+                                Span tagSpan = new Span(tagName);
+                                tagSpan.setVisible(tagName.equals(TAG_ESSENTIAL) ||
+                                        tagName.equals(TAG_BEST) || tagSelect.getSelectedItems().contains(tagName));
+                                tagSpan.addClassNames("badge", getTagColor(tagName));
                                 layout.add(tagSpan);
                             });
                             content.add(layout);
@@ -137,7 +130,7 @@ public class PlannerView extends VerticalLayout {
                     .setHeader("Title").setAutoWidth(true);
             seasonGrid.setItems(query -> {
                 if (generalGroup.getValue().equals(GENERAL_ALL)) {
-                    return EpisodeService
+                    return episodeService
                             .getEpisodesBySeason(series, season)
                             .stream()
                             .skip(query.getOffset())
@@ -150,7 +143,7 @@ public class PlannerView extends VerticalLayout {
                 } else if (generalGroup.getValue().equals(GENERAL_ESSENTIAL)) {
                     combinedTags.add(TAG_ESSENTIAL);
                 }
-                return EpisodeService
+                return episodeService
                         .getEpisodesBySeasonAndTags(series, season, combinedTags)
                         .stream()
                         .skip(query.getOffset())
@@ -174,5 +167,19 @@ public class PlannerView extends VerticalLayout {
         seriesLayout.add(seasonsLayout);
 
         return seriesLayout;
+    }
+
+    private String getTagColor(String tag) {
+        if (tag.equals(TAG_ESSENTIAL)) {
+            return "white";
+        }
+        if (tag.equals(TAG_BEST)) {
+            return "black";
+        }
+        int index = episodeService.getTags().stream()
+                .filter(t -> !t.equals(TAG_ESSENTIAL) && !t.equals(TAG_BEST))
+                .toList()
+                .indexOf(tag) % TAG_COLORS.length;
+        return TAG_COLORS[index];
     }
 }

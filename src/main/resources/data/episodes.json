@@ -837,7 +837,10 @@
     "series": "The Next Generation",
     "season": "Season 2",
     "episode": "2",
-    "title": "Where Silence Has Lease"
+    "title": "Where Silence Has Lease",
+    "tags": [
+      "Romulans"
+    ]
   },
   {
     "series": "The Next Generation",
@@ -2153,7 +2156,10 @@
     "series": "The Next Generation",
     "season": "Movies",
     "episode": "4",
-    "title": "Nemesis"
+    "title": "Nemesis",
+    "tags": [
+      "Romulans"
+    ]
   },
   {
     "series": "Deep Space Nine",

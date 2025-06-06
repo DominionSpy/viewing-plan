@@ -3,65 +3,34 @@ package org.dominionspy.viewingplan.domain;
 import java.util.List;
 import java.util.Objects;
 
-import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
-import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.JoinTable;
 import jakarta.persistence.ManyToMany;
-import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import org.hibernate.proxy.HibernateProxy;
 
 @Entity
-@Table(name = "episode")
-public class Episode {
-
-    public static final String TAG_ESSENTIAL = "Essential";
-    public static final String TAG_BEST = "Best";
+@Table(name = "tag")
+public class Tag {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
-    private Integer number;
-
-    private String title;
-
-    @ManyToOne
-    @JoinColumn(name = "season_id", referencedColumnName = "id")
-    private Season season;
-
-    @ManyToMany(cascade = { CascadeType.PERSIST, CascadeType.MERGE }, fetch = FetchType.EAGER)
-    @JoinTable(
-            name = "episode_tag",
-            joinColumns = @JoinColumn(name = "episode_id") ,
-            inverseJoinColumns = @JoinColumn(name = "tag_id")
-    )
-    private List<Tag> tags;
+    private String name;
 
     public Long getId() {
         return id;
     }
 
-    public Integer getNumber() {
-        return number;
+    public String getName() {
+        return name;
     }
 
-    public String getTitle() {
-        return title;
-    }
-
-    public Season getSeason() {
-        return season;
-    }
-
-    public List<Tag> getTags() {
-        return tags;
-    }
+    @ManyToMany(mappedBy = "tags")
+    private List<Episode> episodes;
 
     @Override
     public final boolean equals(Object o) {
@@ -70,8 +39,8 @@ public class Episode {
         Class<?> oEffectiveClass = o instanceof HibernateProxy ? ((HibernateProxy) o).getHibernateLazyInitializer().getPersistentClass() : o.getClass();
         Class<?> thisEffectiveClass = this instanceof HibernateProxy ? ((HibernateProxy) this).getHibernateLazyInitializer().getPersistentClass() : this.getClass();
         if (thisEffectiveClass != oEffectiveClass) return false;
-        Episode episode = (Episode) o;
-        return getId() != null && Objects.equals(getId(), episode.getId());
+        Tag tag = (Tag) o;
+        return getId() != null && Objects.equals(getId(), tag.getId());
     }
 
     @Override
