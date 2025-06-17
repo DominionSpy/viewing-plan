@@ -1,5 +1,6 @@
 package org.dominionspy.viewingplan.views.planner;
 
+import com.vaadin.flow.component.checkbox.Checkbox;
 import com.vaadin.flow.component.dashboard.DashboardWidget;
 import com.vaadin.flow.component.html.Div;
 import com.vaadin.flow.component.html.H3;
@@ -14,6 +15,8 @@ import org.slf4j.LoggerFactory;
  */
 public class SeriesWidget extends DashboardWidget {
     private static final Logger logger = LoggerFactory.getLogger(SeriesWidget.class);
+    private Div contentContainer;
+    private boolean planned = true;
 
     /**
      * Creates a new SeriesWidget with the specified title and image path.
@@ -36,25 +39,76 @@ public class SeriesWidget extends DashboardWidget {
         // Set standard aspect ratio for all series widgets
         getElement().getStyle().set("aspect-ratio", "5 / 3");
 
+        // Create a container for the content
+        contentContainer = new Div();
+        contentContainer.setSizeFull();
+        contentContainer.getStyle().set("position", "relative");
+
+        // Create the planned checkbox
+        Checkbox plannedCheckbox = new Checkbox("Planned");
+        plannedCheckbox.setValue(true);
+        plannedCheckbox.getStyle()
+                .set("position", "absolute")
+                .set("bottom", "0")
+                .set("left", "0")
+                .set("z-index", "1")
+                .set("background-color", "black")
+                .set("border-color", "grey")
+                .set("border-style", "solid")
+                .set("border-width", "1px")
+                .set("border-radius", "4px")
+                .set("padding", "2px 4px");
+
+        // Add listener to toggle the planned state
+        plannedCheckbox.addValueChangeListener(event -> {
+            planned = event.getValue();
+            updatePlannedState();
+        });
+
         try {
             // Create and configure the title image
             Image titleImage = createImageWithFallback(imagePath, title);
             titleImage.getStyle().set("object-fit", "cover");
-            titleImage.getStyle().set("min-width", "100%");
-            titleImage.getStyle().set("max-height", "100%");
+            titleImage.getStyle().set("width", "100%");
+            titleImage.getStyle().set("height", "100%");
 
             // Add error handling for image loading
             titleImage.getElement().addEventListener("error", event -> {
                 logger.warn("Failed to load image: {}", imagePath);
-                setContent(createFallbackContent(title));
+                contentContainer.removeAll();
+                contentContainer.add(createFallbackContent(title), plannedCheckbox);
+                updatePlannedState();
             }).addEventData("event.type");
 
-            // Set the image as content of the widget
-            setContent(titleImage);
+            // Add components to the container
+            contentContainer.add(titleImage, plannedCheckbox);
+
+            // Set the container as content of the widget
+            setContent(contentContainer);
         } catch (Exception e) {
             // Handle any exceptions during image creation
             logger.error("Error creating image component for {}: {}", title, e.getMessage());
-            setContent(createFallbackContent(title));
+            contentContainer.removeAll();
+            contentContainer.add(createFallbackContent(title), plannedCheckbox);
+            setContent(contentContainer);
+            updatePlannedState();
+        }
+    }
+
+    /**
+     * Updates the visual state of the widget based on whether it is planned or not.
+     */
+    private void updatePlannedState() {
+        if (planned) {
+            // Planned state - normal appearance
+            contentContainer.getStyle().remove("filter");
+            getElement().getStyle().remove("opacity");
+            getElement().getStyle().remove("background-color");
+        } else {
+            // Not planned state - greyed out appearance
+            contentContainer.getStyle().set("filter", "grayscale(100%)");
+            getElement().getStyle().set("opacity", "0.7");
+            getElement().getStyle().set("background-color", "grey");
         }
     }
 
