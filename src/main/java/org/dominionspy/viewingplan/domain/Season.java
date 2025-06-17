@@ -1,5 +1,6 @@
 package org.dominionspy.viewingplan.domain;
 
+import java.time.LocalDate;
 import java.util.List;
 import java.util.Objects;
 
@@ -23,6 +24,8 @@ public class Season {
 
     private String name;
 
+    private LocalDate airDate;
+
     @ManyToOne
     @JoinColumn(name = "series_id", referencedColumnName = "id")
     private Series series;
@@ -36,6 +39,10 @@ public class Season {
 
     public String getName() {
         return name;
+    }
+
+    public LocalDate getAirDate() {
+        return airDate;
     }
 
     public Series getSeries() {

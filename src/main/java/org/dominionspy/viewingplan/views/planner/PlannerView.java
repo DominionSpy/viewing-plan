@@ -183,3 +183,4 @@ public class PlannerView extends VerticalLayout {
         return TAG_COLORS[index];
     }
 }
+

@@ -1,5 +1,6 @@
 package org.dominionspy.viewingplan.domain;
 
+import java.time.LocalDate;
 import java.util.List;
 import java.util.Objects;
 
@@ -21,6 +22,10 @@ public class Series {
 
     private String name;
 
+    private LocalDate airDate;
+
+    private String code;
+
     @OneToMany(mappedBy = "series")
     private List<Season> seasons;
 
@@ -30,6 +35,14 @@ public class Series {
 
     public String getName() {
         return name;
+    }
+
+    public LocalDate getAirDate() {
+        return airDate;
+    }
+
+    public String getCode() {
+        return code;
     }
 
     public List<Season> getSeasons() {
